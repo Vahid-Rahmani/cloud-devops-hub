@@ -1,0 +1,6 @@
+[submodule "vahid-portfolio"]
+	path = vahid-portfolio
+	url = https://github.com/vahidrahmaniinfo24-alt/vahid-portfolio
+[submodule "Automated-Hybrid-Network-Monitoring-Dashboard"]
+	path = Automated-Hybrid-Network-Monitoring-Dashboard
+	url = https://github.com/vahidrahmaniinfo24-alt/Automated-Hybrid-Network-Monitoring-Dashboard.git
